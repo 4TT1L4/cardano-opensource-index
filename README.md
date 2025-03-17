@@ -47,6 +47,8 @@ To developers: Try out [blaze sdk](https://github.com/butaneprotocol/blaze-carda
 | ![][Anastasia Labs Logo]   | Discovery        | Yes (Full)           | ?                |  [Discovery on GitHub](https://github.com/Anastasia-Labs/discovery/)                                                                                                                                              |            
 | ![][MetaDEX Logo]          | MetaDEX.fi       | Yes (Full)           | ?                |  [MetaDEX.fi on GitHub](https://github.com/metadex-fi)                                                                                                                    |            |
 
+| ![][Genius Logo]      | Genius Yield | Yes  (Full)                   | ?                  | [GY DEX Smart Contracts](https://github.com/geniusyield/dex-contracts-api/tree/main/geniusyield-onchain/src/GeniusYield/OnChain/DEX) |           |
+
 #### Partial Open Source
 
 | Project logo         | Project Name | Open Source | Plutus Version | Link                                                                                   | Reference                                                                                                                                                                       |
@@ -77,7 +79,6 @@ To developers: Try out [blaze sdk](https://github.com/butaneprotocol/blaze-carda
 | Project logo          | Project Name | Open Source         | Plutus Version      | Link | Reference |
 | --------------------- | ------------ | ------------------- | ------------------- | ---- | --------- |
 |                       | Astarter     | ?                   | ?                   |      |           |
-| ![][Genius Logo]      | Genius Yield | ?                   | ?                   |      |           |
 | ![][FluidTokens Logo] | FluidTokens  | ?                   | ?                   |      |           |
 
 <!-- Links  -->
