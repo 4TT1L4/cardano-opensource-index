@@ -45,8 +45,7 @@ To developers: Try out [blaze sdk](https://github.com/butaneprotocol/blaze-carda
 | ![][Paima Logo]            | Paima Engine     | Yes\* (Full)          | ?                | [Paima Engine on GitHub](https://github.com/PaimaStudios/paima-engine/)                                                            | \*Paima Engine is free for open-source projects, but has additional terms for closed-sourced commercial projects. |
 | ![][Spectrum Finance Logo] | Spectrum Finance | Yes (Full)            | ?                | [Spectrum Finance on GitHub](https://github.com/spectrum-finance/cardano-dex-contracts)                                                                                                                                   |                                                                                                                   |
 | ![][Anastasia Labs Logo]   | Discovery        | Yes (Full)           | ?                |  [Discovery on GitHub](https://github.com/Anastasia-Labs/discovery/)                                                                                                                                              |            
-| ![][MetaDEX Logo]          | MetaDEX.fi       | Yes (Full)           | ?                |  [MetaDEX.fi on GitHub](https://github.com/metadex-fi)                                                                                                                    |            |
-
+| ![][MetaDEX Logo]          | MetaDEX.fi       | Yes (Full)           | ?                |  [MetaDEX.fi on GitHub](https://github.com/metadex-fi)                                                                                 |           |
 | ![][Genius Logo]      | Genius Yield | Yes  (Full)                   | ?                  | [GY DEX Smart Contracts](https://github.com/geniusyield/dex-contracts-api/tree/main/geniusyield-onchain/src/GeniusYield/OnChain/DEX) |           |
 
 #### Partial Open Source
